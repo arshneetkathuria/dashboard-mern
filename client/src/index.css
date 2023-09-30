@@ -6,3 +6,8 @@ html,body,#root,.app
   width:100%;
   font-family: "Inter",sans-serif;
 }
+
+.MuiListItem-root
+{
+  /* margin-top: -10px !important; */
+}
